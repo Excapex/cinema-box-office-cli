@@ -1,0 +1,14 @@
+# Runtime data (created by seed.py on first run)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
